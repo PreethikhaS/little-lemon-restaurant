@@ -390,7 +390,7 @@ input, label{
 }
 
 #chefs-item-2 {
-  margin: -1.5em auto auto -2em;
+  margin: -2.5em auto auto -2em;
   box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.2);
   z-index: -1;
 }
@@ -440,6 +440,9 @@ footer section{
   display: flex;
   justify-content: space-between;
   align-items: start;
+  background-color: #495e57;
+  color: #EDEFEE;
+  
 }
 
 .company-info img{
